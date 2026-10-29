@@ -1,0 +1,62 @@
+{
+  "out": "/Users/mihail/delamain/projects/ferident-demo",
+  "name": "Feri Dent",
+  "brand_text": "Feri Dent",
+  "kicker": "Detelinara · Novi Sad",
+  "title": "Stomatološka ordinacija Feri Dent — Detelinara, Novi Sad",
+  "description": "Feri Dent, Novi Sad: fiksna i mobilna ortodoncija, alajneri i retineri, protetika, konzervativa, estetska stomatologija i anti aging. Branka Bajića 9A/02, Detelinara. Termin telefonom ili preko forme.",
+  "brand": "#175a6b",
+  "brand2": "#0b2f3a",
+  "accent": "#e9b45c",
+  "logo": "",
+  "hero": "assets/img/hero.jpg",
+  "h1": "Ortodoncija, protetika i estetika osmeha — u Detelinari.",
+  "lead": "Feri Dent radi od 2005. godine u Branka Bajića 9A/02. Fiksni i mobilni aparati, alajneri i retineri, protetika, konzervativa i estetska stomatologija — sa cenovnikom objavljenim na sajtu.",
+  "phone": "021 545 972",
+  "phone_link": "+38121545972",
+  "facts": [
+    ["2005", "godina osnivanja"],
+    ["4", "stomatologa u timu"],
+    ["9", "oblasti u ordinaciji"],
+    ["12–20", "pon–čet · pet do 18"]
+  ],
+  "form": true,
+  "book_title": "Zakažite pregled",
+  "book_lead": "Ostavite ime i broj telefona — pozvaćemo vas da dogovorimo termin. Ako vam je brže, pozovite 021 545 972.",
+  "hours": "pon–čet 12:00–20:00, pet 12:00–18:00, vikendom ne radimo",
+  "services_title": "Usluge",
+  "services_lead": "Devet oblasti, od ortodoncije i protetike do estetike lica — i cenovnik objavljen na sajtu, bez „pozovite za cenu“.",
+  "typographic_services": true,
+  "services": [
+    {"title": "Fiksna ortodoncija", "text": "Bravice i žica na površini zuba — klasične metalne, estetske i lingvalne, postavljene sa unutrašnje strane zuba."},
+    {"title": "Mobilna ortodoncija", "text": "Aktivni i funkcionalni aparati na skidanje: akrilatne ploče koje drže zube i vode rast vilice dok je u razvoju."},
+    {"title": "Providne folije — alajneri", "text": "Niz providnih folija bez bravica i žica; svaka se nosi oko dve nedelje, terapija u proseku traje 9–15 meseci."},
+    {"title": "Retineri", "text": "Pokretni (kao folija ili proteza) i fiksni, lepljeni na unutrašnju stranu prednjih zuba — da zubi ostanu u novoj poziciji."},
+    {"title": "Protetika", "text": "Krunice, mostovi i proteze za nadoknadu izgubljenih zuba; implantati, fiksni radovi i skeletirane proteze sa atečmenima."},
+    {"title": "Konzervativa", "text": "Karijes, bele plombe i endodontsko lečenje — zapaljenje živca i tkiva oko korena zuba."},
+    {"title": "Estetska stomatologija", "text": "Uklanjanje kamenca, estetske plombe, kompozitne i keramičke fasete, bezmetalne krunice i beljenje zuba."},
+    {"title": "Estetika lica i anti aging", "text": "Mezoterapija, fileri, ultrazvučna lipoliza, mezolift, kriolift, nano perfector i ultrakontur."},
+    {"title": "Dentalni turizam", "text": "Pacijentima iz drugih gradova i inostranstva — organizacija smeštaja i obilazak grada tokom sanacije zuba, uz prethodni dogovor."}
+  ],
+  "team_lead": "Četiri stomatologa i četiri stomatološke sestre. Ordinaciju vodi dr Feri, ortodont i osnivač Feri Denta.",
+  "team": [
+    {"img": "assets/img/dr-feri.jpg", "name": "Dr Feri", "role": "Osnivač, specijalista ortodoncije"},
+    {"img": "assets/img/dr-natasa.jpg", "name": "Dr Nataša", "role": "Doktor stomatologije"},
+    {"img": "assets/img/dr-sandra.jpg", "name": "Dr Sandra", "role": "Doktor stomatologije"},
+    {"img": "assets/img/dr-gordana.jpg", "name": "Dr Gordana", "role": "Doktor stomatologije"}
+  ],
+  "gallery_title": "Ordinacija",
+  "gallery_lead": "Čekaonica, ordinacije i rad sa pacijentima u Branka Bajića 9A/02.",
+  "gallery_nav": "Ordinacija",
+  "gallery": [
+    {"img": "assets/img/gal-ordinacija-1.jpg", "alt": "Ordinacija Feri Dent"},
+    {"img": "assets/img/gal-rad.jpg", "alt": "Rad sa pacijentom"},
+    {"img": "assets/img/gal-pacijent.jpg", "alt": "Razgovor sa pacijentom pre terapije"},
+    {"img": "assets/img/gal-stolica.jpg", "alt": "Stomatološka stolica"}
+  ],
+  "address": "Branka Bajića 9A/02, 21000 Novi Sad",
+  "email": "feridentns@gmail.com",
+  "note": "Termin se zakazuje telefonom 021 545 972 ili 021 303 64 00, mejlom ili preko forme iznad. Ordinacija je u Detelinari; vikendom ne radimo.",
+  "box_text": "Za pacijente iz drugih gradova i inostranstva moguće je organizovati smeštaj i obilazak grada tokom sanacije zuba, uz prethodni dogovor.",
+  "map_query": "Branka Bajića 9A, Novi Sad"
+}
